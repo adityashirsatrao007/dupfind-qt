@@ -1,0 +1,6 @@
+build/
+build-*/
+*.user
+.qmake.stash
+CMakeLists.txt.user*
+.DS_Store
